@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Chhavi-Trivedi/banner/blob/main/banner.jpg)
+
 
 <h1 align="center">Hello! I'm Chhavi-Trivedi 😇</h1>
 <h3 align="center">Coder with Hands in Data Science</h3>
